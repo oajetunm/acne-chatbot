@@ -1,0 +1,18 @@
+[theme]
+# Customize your app’s theme
+primaryColor="#008080"                  # Teal color for buttons and highlights
+backgroundColor="#F5F5F5"               # Light gray background for a soft look
+secondaryBackgroundColor="#E0F7FA"      # Light teal for sidebar/containers
+textColor="#262730"                     # Dark gray text for better readability
+font="sans serif"                       # Clean, modern font
+
+[server]
+# Allows the app to be run remotely (optional tweaks)
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+port = 8502
+
+[client]
+# Controls browser-side behavior
+toolbarMode = "minimal"
