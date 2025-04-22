@@ -71,7 +71,7 @@ Visit streamlit.io/cloud
 
 Click "New App"
 
-Set main file to pdf_chatbot_app.py
+Set main file to pdf_chatbot.py
 
 Add your OpenAI key in the Secrets tab
 
