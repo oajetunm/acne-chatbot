@@ -51,7 +51,8 @@ cd acne-chatbot
 
 2. Create a virtual environment and activate it
 python3 -m venv venv
-source venv/bin/activate
+source venv/bin/activate  or python3 -m venv venv
+source ./venv/bin/activate
 
 3. Install dependencies
 pip install -r requirements.txt
