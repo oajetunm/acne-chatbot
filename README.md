@@ -19,9 +19,7 @@ An AI-powered chatbot built with Streamlit and LangChain that answers skincare-r
 ⚡ Fast and user-friendly Streamlit interface
 
 📁 Project Structure
-bash
-Copy
-Edit
+
 📦 acne-chatbot/
 ├── pdf_chatbot.py             # Main Streamlit app
 ├── acne_guide.pdf             # PDF used for recommendations
