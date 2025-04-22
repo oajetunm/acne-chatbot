@@ -63,7 +63,7 @@ Create a file named .env with:
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
 
 5. Run the app
-streamlit run pdf_chatbot_app.py
+streamlit run pdf_chatbot.py
 🌐 Deploy to Streamlit Cloud
 Push your project to GitHub
 
