@@ -15,7 +15,7 @@ from langchain.chains import RetrievalQA
 
 load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
-pdf_file_path = "/Users/olubisiajetunmobi/Downloads/AIChatbot/OTC.pdf"
+pdf_file_path = "OTC.pdf"
 
 # ---------------------- IMAGE + TEXT EXTRACTION ---------------------- #
 
